@@ -1,0 +1,151 @@
+# =======================================================================================
+#                              Corrector ortogràfic català
+#                          Fitxer d'afixos i llista de paraules
+# =======================================================================================
+#                                Release 0.0.1 (7/5/2013)
+# =======================================================================================
+# Copyright (C) 2002-2008 
+# =======================================================================================
+# Fonts: 
+# =======================================================================================
+
+# Patterns rules:
+#     26 First verbal conjugation model
+#
+
+SET UTF-8
+
+WORDCHARS ·-'
+
+TRY easirtocnlumdpgvfbqjwxyzhàèéíïòóúüç·-'
+
+REP 48
+REP a à
+REP e é
+REP e è
+REP é è
+REP i í
+REP i ï
+REP í ï
+REP o ó
+REP o ò
+REP ó ò
+REP u ú
+REP u ü
+REP ú ü
+REP l l·l
+REP e E
+REP a A
+REP s S
+REP i I
+REP r R
+REP t T
+REP o O
+REP c C
+REP n N
+REP l L
+REP u U
+REP m M
+REP d D
+REP p P
+REP g G
+REP v V
+REP f F
+REP b B
+REP q Q
+REP j J
+REP w W
+REP x X
+REP y Y
+REP z Z
+REP h H
+REP à À
+REP è È
+REP é É
+REP í Í
+REP ï Ï
+REP ò Ò
+REP ó Ó
+REP ú Ú
+REP ü Ü
+
+# cantar
+SFX 26 Y 78
+SFX 26 ar ar ar is:VMN00000 # cantar
+SFX 26 ar ant ant ar is:VMG00000 # cantant
+SFX 26 ar at ar is:VMP00SM0 # cantat
+SFX 26 ar ada ar is:VMP00SF0 # cantada
+SFX 26 ar ats ar is:VMP00PM0 # cantats
+SFX 26 ar ades ar is:VMP00PF0 # cantades
+SFX 26 ar o ar is:VMIP1S0C # canto
+SFX 26 ar e ar is:VMIP1S0V # cante
+SFX 26 ar 0 ar is:VMIP1S0B # cant
+SFX 26 ar es ar is:VMIP2S00 # cantes
+SFX 26 ar a ar is:VMIP3S00 # canta
+SFX 26 ar em ar is:VMIP1P00 # cantem
+SFX 26 ar am ar is:VMIP1P0B # cantam
+SFX 26 ar eu ar is:VMIP2P00 # canteu
+SFX 26 ar au ar is:VMIP2P0B # cantau
+SFX 26 ar en ar is:VMIP3P00 # canten
+SFX 26 ar ava ar is:VMII1S00 # cantava
+SFX 26 ar aves ar is:VMII2S00 # cantaves
+SFX 26 ar ava ar is:VMII3S00 # cantaves
+SFX 26 ar àvem ar is:VMII1P00 # cantàvem
+SFX 26 ar àveu ar is:VMII2P00 # cantàveu
+SFX 26 ar aven ar is:VMII3P00 # cantaven
+SFX 26 ar aré ar is:VMIF1S00 # cantaré
+SFX 26 ar aràs ar is:VMIF2S00 # cantaràs
+SFX 26 ar arà ar is:VMIF3S00 # cantarà
+SFX 26 ar arem ar is:VMIF1P00 # cantarem
+SFX 26 ar areu ar is:VMIF2P00 # cantareu
+SFX 26 ar aran ar is:VMIF3P00 # cantaran
+SFX 26 ar aria ar is:VMIC1S00 # cantaria
+SFX 26 ar aries ar is:VMIC2S00 # cantaries
+SFX 26 ar aria ar is:VMIC3S00 # cantaria
+SFX 26 ar aríem ar is:VMIC1P00 # cantaríem
+SFX 26 ar aríeu ar is:VMIC2P00 # cantaríeu
+SFX 26 ar arien ar is:VMIC3P00 # cantarien
+SFX 26 ar i ar is:VMSP1S0Y # canti
+SFX 26 ar e ar is:VMSP1S0V # cante
+SFX 26 ar is ar is:VMSP2S0Y # cantis
+SFX 26 ar es ar is:VMSP2S0V # cantes
+SFX 26 ar i ar is:VMSP3S0Y # canti
+SFX 26 ar e ar is:VMSP3S0V # cante
+SFX 26 ar em ar is:VMSP1P00 # cantem
+SFX 26 ar eu ar is:VMSP2P00 # canteu
+SFX 26 ar in ar is:VMSP3P0Y # cantin
+SFX 26 ar en ar is:VMSP3P0V # canten
+SFX 26 ar ara ar is:VMSI1S0V # cantara
+SFX 26 ar às ar is:VMSI1S0Z # cantàs
+SFX 26 ar és ar is:VMSI1S00 # cantés
+SFX 26 ar ares ar is:VMSI2S0V # cantares
+SFX 26 ar asses ar is:VMSI2S0V # cantasses
+SFX 26 ar assis ar is:VMSI2S0B # cantassis
+SFX 26 ar esses ar is:VMSI2S0V # cantesses
+SFX 26 ar essis ar is:VMSI2S0Y # cantessis
+SFX 26 ar ara ar is:VMSI3S0V # cantara
+SFX 26 ar às ar is:VMSI3S0Z # cantàs
+SFX 26 ar és ar is:VMSI3S00 # cantés
+SFX 26 ar àrem ar is:VMSI1P0V # cantàrem
+SFX 26 ar àssem ar is:VMSI1P0V # cantàssem
+SFX 26 ar àssim ar is:VMSI1P0B # cantàssim
+SFX 26 ar éssem ar is:VMSI1P0V # cantéssem
+SFX 26 ar éssim ar is:VMSI1P0Y # cantéssim
+SFX 26 ar àreu ar is:VMSI2P0V # cantàreu
+SFX 26 ar àsseu ar is:VMSI2P0V # cantàsseu
+SFX 26 ar àssiu ar is:VMSI2P0B # cantàssiu
+SFX 26 ar ésseu ar is:VMSI2P0V # cantésseu
+SFX 26 ar éssiu ar is:VMSI2P0Y # cantéssiu
+SFX 26 ar aren ar is:VMSI3P0V # cantaren
+SFX 26 ar assen ar is:VMSI3P0V # cantassen
+SFX 26 ar assin ar is:VMSI3P0B # cantassin
+SFX 26 ar essen ar is:VMSI3P0V # cantassen
+SFX 26 ar essin ar is:VMSI3P0Y # cantessin
+SFX 26 ar a ar is:VMM02S00 # canta
+SFX 26 ar i ar is:VMM03S0Y # canti
+SFX 26 ar e ar is:VMM03S0V # cante
+SFX 26 ar em ar is:VMM01P00 # cantem
+SFX 26 ar eu ar is:VMM02P0X # canteu
+SFX 26 ar au ar is:VMM02P0B # cantau
+SFX 26 ar in ar is:VMM03P0Y # cantin
+SFX 26 ar en ar is:VMM03P0V # canten
