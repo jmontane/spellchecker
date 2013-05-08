@@ -9,10 +9,6 @@
 # Fonts: 
 # =======================================================================================
 
-# Patterns rules:
-#     26 First verbal conjugation model
-#
-
 SET UTF-8
 
 WORDCHARS ·-'
@@ -69,83 +65,180 @@ REP ó Ó
 REP ú Ú
 REP ü Ü
 
-# cantar
-SFX 26 Y 78
-SFX 26 ar ar ar is:VMN00000 # cantar
-SFX 26 ar ant ant ar is:VMG00000 # cantant
-SFX 26 ar at ar is:VMP00SM0 # cantat
-SFX 26 ar ada ar is:VMP00SF0 # cantada
-SFX 26 ar ats ar is:VMP00PM0 # cantats
-SFX 26 ar ades ar is:VMP00PF0 # cantades
-SFX 26 ar o ar is:VMIP1S0C # canto
-SFX 26 ar e ar is:VMIP1S0V # cante
-SFX 26 ar 0 ar is:VMIP1S0B # cant
-SFX 26 ar es ar is:VMIP2S00 # cantes
-SFX 26 ar a ar is:VMIP3S00 # canta
-SFX 26 ar em ar is:VMIP1P00 # cantem
-SFX 26 ar am ar is:VMIP1P0B # cantam
-SFX 26 ar eu ar is:VMIP2P00 # canteu
-SFX 26 ar au ar is:VMIP2P0B # cantau
-SFX 26 ar en ar is:VMIP3P00 # canten
-SFX 26 ar ava ar is:VMII1S00 # cantava
-SFX 26 ar aves ar is:VMII2S00 # cantaves
-SFX 26 ar ava ar is:VMII3S00 # cantaves
-SFX 26 ar àvem ar is:VMII1P00 # cantàvem
-SFX 26 ar àveu ar is:VMII2P00 # cantàveu
-SFX 26 ar aven ar is:VMII3P00 # cantaven
-SFX 26 ar aré ar is:VMIF1S00 # cantaré
-SFX 26 ar aràs ar is:VMIF2S00 # cantaràs
-SFX 26 ar arà ar is:VMIF3S00 # cantarà
-SFX 26 ar arem ar is:VMIF1P00 # cantarem
-SFX 26 ar areu ar is:VMIF2P00 # cantareu
-SFX 26 ar aran ar is:VMIF3P00 # cantaran
-SFX 26 ar aria ar is:VMIC1S00 # cantaria
-SFX 26 ar aries ar is:VMIC2S00 # cantaries
-SFX 26 ar aria ar is:VMIC3S00 # cantaria
-SFX 26 ar aríem ar is:VMIC1P00 # cantaríem
-SFX 26 ar aríeu ar is:VMIC2P00 # cantaríeu
-SFX 26 ar arien ar is:VMIC3P00 # cantarien
-SFX 26 ar i ar is:VMSP1S0Y # canti
-SFX 26 ar e ar is:VMSP1S0V # cante
-SFX 26 ar is ar is:VMSP2S0Y # cantis
-SFX 26 ar es ar is:VMSP2S0V # cantes
-SFX 26 ar i ar is:VMSP3S0Y # canti
-SFX 26 ar e ar is:VMSP3S0V # cante
-SFX 26 ar em ar is:VMSP1P00 # cantem
-SFX 26 ar eu ar is:VMSP2P00 # canteu
-SFX 26 ar in ar is:VMSP3P0Y # cantin
-SFX 26 ar en ar is:VMSP3P0V # canten
-SFX 26 ar ara ar is:VMSI1S0V # cantara
-SFX 26 ar às ar is:VMSI1S0Z # cantàs
-SFX 26 ar és ar is:VMSI1S00 # cantés
-SFX 26 ar ares ar is:VMSI2S0V # cantares
-SFX 26 ar asses ar is:VMSI2S0V # cantasses
-SFX 26 ar assis ar is:VMSI2S0B # cantassis
-SFX 26 ar esses ar is:VMSI2S0V # cantesses
-SFX 26 ar essis ar is:VMSI2S0Y # cantessis
-SFX 26 ar ara ar is:VMSI3S0V # cantara
-SFX 26 ar às ar is:VMSI3S0Z # cantàs
-SFX 26 ar és ar is:VMSI3S00 # cantés
-SFX 26 ar àrem ar is:VMSI1P0V # cantàrem
-SFX 26 ar àssem ar is:VMSI1P0V # cantàssem
-SFX 26 ar àssim ar is:VMSI1P0B # cantàssim
-SFX 26 ar éssem ar is:VMSI1P0V # cantéssem
-SFX 26 ar éssim ar is:VMSI1P0Y # cantéssim
-SFX 26 ar àreu ar is:VMSI2P0V # cantàreu
-SFX 26 ar àsseu ar is:VMSI2P0V # cantàsseu
-SFX 26 ar àssiu ar is:VMSI2P0B # cantàssiu
-SFX 26 ar ésseu ar is:VMSI2P0V # cantésseu
-SFX 26 ar éssiu ar is:VMSI2P0Y # cantéssiu
-SFX 26 ar aren ar is:VMSI3P0V # cantaren
-SFX 26 ar assen ar is:VMSI3P0V # cantassen
-SFX 26 ar assin ar is:VMSI3P0B # cantassin
-SFX 26 ar essen ar is:VMSI3P0V # cantassen
-SFX 26 ar essin ar is:VMSI3P0Y # cantessin
-SFX 26 ar a ar is:VMM02S00 # canta
-SFX 26 ar i ar is:VMM03S0Y # canti
-SFX 26 ar e ar is:VMM03S0V # cante
-SFX 26 ar em ar is:VMM01P00 # cantem
-SFX 26 ar eu ar is:VMM02P0X # canteu
-SFX 26 ar au ar is:VMM02P0B # cantau
-SFX 26 ar in ar is:VMM03P0Y # cantin
-SFX 26 ar en ar is:VMM03P0V # canten
+# Patterns rules:
+#
+
+# 26 -- cantar
+SFX 26 Y 84
+SFX 26 ar ar ar is:N00000
+SFX 26 ar ant ar is:G00000
+SFX 26 ar at ar is:P00SM0
+SFX 26 ar ada ar is:P00SF0
+SFX 26 ar ats ar is:P00PM0
+SFX 26 ar ades ar is:P00PF0
+SFX 26 ar o ar is:IP1S00
+SFX 26 ar e ar is:IP1S00
+SFX 26 ar 0 ar is:IP1S00
+SFX 26 ar es ar is:IP2S00
+SFX 26 ar a ar is:IP3S00
+SFX 26 ar em ar is:IP1P00
+SFX 26 ar am ar is:IP1P00
+SFX 26 ar eu ar is:IP2P00
+SFX 26 ar au ar is:IP2P00
+SFX 26 ar en ar is:IP3P00
+SFX 26 ar ava ar is:II1S00
+SFX 26 ar aves ar is:II2S00
+SFX 26 ar ava ar is:II3S00
+SFX 26 ar àvem ar is:II1P00
+SFX 26 ar àveu ar is:II2P00
+SFX 26 ar aven ar is:II3P00
+SFX 26 ar í ar is:IS1S00
+SFX 26 ar ares ar is:IS2S00
+SFX 26 ar à ar is:IS3S00
+SFX 26 ar àrem ar is:IS1P00
+SFX 26 ar àreu ar is:IS2P00
+SFX 26 ar aren ar is:IS3P00
+SFX 26 ar aré ar is:IF1S00
+SFX 26 ar aràs ar is:IF2S00
+SFX 26 ar arà ar is:IF3S00
+SFX 26 ar arem ar is:IF1P00
+SFX 26 ar areu ar is:IF2P00
+SFX 26 ar aran ar is:IF3P00
+SFX 26 ar aria ar is:IC1S00
+SFX 26 ar aries ar is:IC2S00
+SFX 26 ar aria ar is:IC3S00
+SFX 26 ar aríem ar is:IC1P00
+SFX 26 ar aríeu ar is:IC2P00
+SFX 26 ar arien ar is:IC3P00
+SFX 26 ar i ar is:SP1S00
+SFX 26 ar e ar is:SP1S00
+SFX 26 ar is ar is:SP2S00
+SFX 26 ar es ar is:SP2S00
+SFX 26 ar i ar is:SP3S00
+SFX 26 ar e ar is:SP3S00
+SFX 26 ar em ar is:SP1P0
+SFX 26 ar eu ar is:SP2P0
+SFX 26 ar in ar is:SP3P00
+SFX 26 ar en ar is:SP3P00
+SFX 26 ar ara ar is:SI1S00
+SFX 26 ar às ar is:SI1S00
+SFX 26 ar és ar is:SI1S0
+SFX 26 ar ares ar is:SI2S00
+SFX 26 ar asses ar is:SI2S00
+SFX 26 ar assis ar is:SI2S00
+SFX 26 ar esses ar is:SI2S00
+SFX 26 ar essis ar is:SI2S00
+SFX 26 ar ara ar is:SI3S00
+SFX 26 ar às ar is:SI3S00
+SFX 26 ar és ar is:SI3S00
+SFX 26 ar àrem ar is:SI1P00
+SFX 26 ar àssem ar is:SI1P00
+SFX 26 ar àssim ar is:SI1P00
+SFX 26 ar éssem ar is:SI1P00
+SFX 26 ar éssim ar is:SI1P00
+SFX 26 ar àreu ar is:SI2P00
+SFX 26 ar àsseu ar is:SI2P00
+SFX 26 ar àssiu ar is:SI2P00
+SFX 26 ar ésseu ar is:SI2P00
+SFX 26 ar éssiu ar is:SI2P00
+SFX 26 ar aren ar is:SI3P00
+SFX 26 ar assen ar is:SI3P00
+SFX 26 ar assin ar is:SI3P00
+SFX 26 ar essen ar is:SI3P00
+SFX 26 ar essin ar is:SI3P00
+SFX 26 ar a ar is:M02S00
+SFX 26 ar i ar is:M03S00
+SFX 26 ar e ar is:M03S00
+SFX 26 ar em ar is:M01P00
+SFX 26 ar eu ar is:M02P00
+SFX 26 ar au ar is:M02P00
+SFX 26 ar in ar is:M03P00
+SFX 26 ar en ar is:M03P00
+
+# 59 -- donar
+SFX 59 Y 84
+SFX 59 ar ar ar is:N00000
+SFX 59 ar ant ar is:G00000
+SFX 59 ar at ar is:P00SM0
+SFX 59 ar ada ar is:P00SF0
+SFX 59 ar ats ar is:P00PM0
+SFX 59 ar ades ar is:P00PF0
+SFX 59 ar o ar is:IP1S00
+SFX 59 ar e ar is:IP1S00
+SFX 59 ar 0 ar is:IP1S00
+SFX 59 onar ónes ar is:IP2S00#
+SFX 59 onar óna ar is:IP3S00#
+SFX 59 ar em ar is:IP1P00
+SFX 59 ar am ar is:IP1P00
+SFX 59 ar eu ar is:IP2P00
+SFX 59 ar au ar is:IP2P00
+SFX 59 ar en ar is:IP3P00
+SFX 59 ar ava ar is:II1S00
+SFX 59 ar aves ar is:II2S00
+SFX 59 ar ava ar is:II3S00
+SFX 59 ar àvem ar is:II1P00
+SFX 59 ar àveu ar is:II2P00
+SFX 59 ar aven ar is:II3P00
+SFX 59 ar í ar is:IS1S00
+SFX 59 ar ares ar is:IS2S00
+SFX 59 ar à ar is:IS3S00
+SFX 59 ar àrem ar is:IS1P00
+SFX 59 ar àreu ar is:IS2P00
+SFX 59 ar aren ar is:IS3P00
+SFX 59 ar aré ar is:IF1S00
+SFX 59 ar aràs ar is:IF2S00
+SFX 59 ar arà ar is:IF3S00
+SFX 59 ar arem ar is:IF1P00
+SFX 59 ar areu ar is:IF2P00
+SFX 59 ar aran ar is:IF3P00
+SFX 59 ar aria ar is:IC1S00
+SFX 59 ar aries ar is:IC2S00
+SFX 59 ar aria ar is:IC3S00
+SFX 59 ar aríem ar is:IC1P00
+SFX 59 ar aríeu ar is:IC2P00
+SFX 59 ar arien ar is:IC3P00
+SFX 59 ar i ar is:SP1S00
+SFX 59 ar e ar is:SP1S00
+SFX 59 ar is ar is:SP2S00
+SFX 59 ar es ar is:SP2S00
+SFX 59 ar i ar is:SP3S00
+SFX 59 ar e ar is:SP3S00
+SFX 59 ar em ar is:SP1P00
+SFX 59 ar eu ar is:SP2P00
+SFX 59 ar in ar is:SP3P00
+SFX 59 ar en ar is:SP3P00
+SFX 59 ar ara ar is:SI1S00
+SFX 59 ar às ar is:SI1S00
+SFX 59 ar és ar is:SI1S00
+SFX 59 ar ares ar is:SI2S00
+SFX 59 ar asses ar is:SI2S00
+SFX 59 ar assis ar is:SI2S00
+SFX 59 ar esses ar is:SI2S00
+SFX 59 ar essis ar is:SI2S00
+SFX 59 ar ara ar is:SI3S00
+SFX 59 ar às ar is:SI3S00
+SFX 59 ar és ar is:SI3S00
+SFX 59 ar àrem ar is:SI1P00
+SFX 59 ar àssem ar is:SI1P00
+SFX 59 ar àssim ar is:SI1P00
+SFX 59 ar éssem ar is:SI1P00
+SFX 59 ar éssim ar is:SI1P00
+SFX 59 ar àreu ar is:SI2P00
+SFX 59 ar àsseu ar is:SI2P00
+SFX 59 ar àssiu ar is:SI2P00
+SFX 59 ar ésseu ar is:SI2P00
+SFX 59 ar éssiu ar is:SI2P00
+SFX 59 ar aren ar is:SI3P00
+SFX 59 ar assen ar is:SI3P00
+SFX 59 ar assin ar is:SI3P00
+SFX 59 ar essen ar is:SI3P00
+SFX 59 ar essin ar is:SI3P00
+SFX 59 onar óna ar is:M02S00
+SFX 59 ar i ar is:M03S00
+SFX 59 ar e ar is:M03S00
+SFX 59 ar em ar is:M01P00
+SFX 59 ar eu ar is:M02P00
+SFX 59 ar au ar is:M02P00
+SFX 59 ar in ar is:M03P00
+SFX 59 ar en ar is:M03P00
+

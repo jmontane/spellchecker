@@ -6,7 +6,7 @@ use utf8;
 
 binmode(STDOUT, ":utf8");
 
-my $filename = '../data-sources/verbs.txt';
+my $filename = '../data-sources/data.txt';
 
 open(my $fh, '<:encoding(UTF-8)', $filename)
 or die "Could not open file '$filename' $!";
@@ -20,7 +20,7 @@ print "$count\n";
 
 foreach (@lines) {
 	my @entry = split(/\|/,$_);
-	print "$entry[0]\/$entry[2]\tpo:verb\n";
+	print "$entry[0]\/$entry[2]\tpo:$entry[1]\n";
 }
 
 
