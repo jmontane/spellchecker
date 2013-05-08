@@ -6,6 +6,28 @@ use utf8;
 
 binmode(STDOUT, ":utf8");
 
+my @models= qw(26 59);
+
+# Print header
+print_header();
+
+# Print encoding
+print_encoding();
+
+# Print block
+print_block();
+
+# Print models
+foreach (@models)
+{
+	system("/usr/bin/perl ./generate-model.pl $_");
+	print "\n";
+}
+
+
+sub print_header
+{
+
 print <<HEADER;
 # =======================================================================================
 #                              Corrector ortogràfic català
@@ -18,12 +40,18 @@ print <<HEADER;
 # Fonts: 
 # =======================================================================================
 
-# Patterns rules:
-#     26 First verbal conjugation model
-#
+HEADER
+}
 
-SET UTF-8
+sub print_encoding
+{
+print "SET UTF-8\n\n";
+}
 
+sub print_block
+{
+
+print <<BLOCK;
 WORDCHARS ·-'
 
 TRY easirtocnlumdpgvfbqjwxyzhàèéíïòóúüç·-'
@@ -78,6 +106,9 @@ REP ó Ó
 REP ú Ú
 REP ü Ü
 
-HEADER
+# Patterns rules:
+#
 
-system("/usr/bin/perl ./build-models.pl ");
+BLOCK
+}
+

@@ -6,7 +6,15 @@ use utf8;
 
 binmode(STDOUT, ":utf8");
 
-my $filename = '../models/26.model';
+my $num_args = $#ARGV + 1;
+if ($num_args != 1) {
+  print "\nUsage: ./generate-model.pl number_of_model\n";
+  exit;
+}
+
+my $model=$ARGV[0];
+my $filename = "../models/$model.model";
+
 
 open(my $fh, '<:encoding(UTF-8)', $filename)
 or die "Could not open file '$filename' $!";
@@ -40,12 +48,13 @@ if ( ($lines[0] !~ /^# /) || ($lines[1] !~ /^# /) || ($lines[2] !~ /^# /) || ($l
 
 
 
-print "# $sample\n";
+print "# $code -- $sample\n";
 print "$type $code $combinable $count\n";
 foreach (@lines) {
 	if ($_ =~ /^[^#]/)
 	{
-		print "$type $code $_\n";
+		my @rule = split(" ",$_);
+		print "$type $code $rule[0] $rule[1] $rule[2] is:$rule[3]$rule[5]\n";
 	}
 	  
 }
