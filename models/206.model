@@ -1,0 +1,9 @@
+# aigua
+# 206
+# SFX
+# Y
+
+# plural amb canvi -gua -> -gües
+0 0 gua S 0 0 # aigua -> aigua
+ua ües gua P 0 0 # aigua -> aigües
+

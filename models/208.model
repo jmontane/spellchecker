@@ -1,0 +1,9 @@
+# caça
+# 208
+# SFX
+# Y
+
+# plural amb canvi -ça -> -ces
+0 0 ça S 0 0 # caça -> caça
+ça ces ça P 0 0 # caça -> caces
+

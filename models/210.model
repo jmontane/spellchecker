@@ -1,0 +1,12 @@
+# aglà
+# 210
+# SFX
+# Y
+
+# plural afegint -ns, singular amb accent obert
+0 0 [aeo] S 0 0 # aglà -> aglà
+à ans à P 0 0 # aglà -> aglans
+è ens è P 0 0 # al·lè -> al·lens
+ò ons ò P 0 0 # bitò -> bitons
+
+

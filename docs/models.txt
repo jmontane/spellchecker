@@ -1,0 +1,56 @@
+# Nominative inflection models
+
+code S P
+201 a as
+202 abraç abraços
+203 casa cases
+204 coca coques
+205 paga pagues
+206 aigua aigües
+207 platja platges
+208 caça caces
+209 be bens
+210 aglà aglans
+211 acció accions
+212 arruí arruïns
+213 aerotrèn aerotrens
+214 espín espins
+215 aiguarràs aiguarrasos
+216 abús abusos
+217 nas nassos
+218 afàs afassos
+219 abscés abscessos
+220 país països
+221 gaús gaüssos
+222 abdomen abdòmens
+223 aborigen aborígens
+224 creixen créixens
+226 assaig assajos (o assaigs)
+228 enuig enutjos (o enuigs)
+229 desig desitjos (o desigs)
+230 abast abastos (o abasts)
+231 ase ases (o àsens)
+232 terme termes (o térmens)
+
+code MS FS MP FP
+301 alt alta alts altes
+302 baix baixa baixos baixes
+303 guapo guapa guapos guapes
+304 pratenc pratenca pratencs pratenques
+305 amazic amaziga amazics amazigues
+306 pròdig pròdiga pròdigs pròdigues
+307 oblic obliqua oblics obliqües
+308 maco maca macos maques
+309 mengo menga mengos mengues
+310 agut aguda aguts agudes
+311 feliç feliç feliços felices
+312 dolç dolça dolços dolces
+313 roig roja roigs (o rojos) roges
+314 lleig lletja lletjos (o lleigs) lletges
+316 mig mitja mitjos (o migs) mitges
+317 just justa justos (o justs) justes
+380 fresc fresca frescos (o frescs) fresques
+
+
+# Verbal inflection models
+

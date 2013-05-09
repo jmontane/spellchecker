@@ -1,0 +1,13 @@
+# acció
+# 211
+# SFX
+# Y
+
+# plural afegint -ns, singular amb accent tancat
+0 0 [eiou] S 0 0 # acció -> acció
+é ens é P 0 0 # bé -> bens
+í ins í P 0 0 # alambí -> alambins
+ó ons ó P 0 0 # acció -> accions
+ú uns ú P 0 0 # enfú -> enfuns
+
+

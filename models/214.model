@@ -1,0 +1,12 @@
+# espín
+# 214
+# SFX
+# Y
+
+# plural afegint -s, perdent accent tancat
+0 0 [íé]n S 0 0 # espín -> espín
+ín ins ín P 0 0 # espín -> espín
+én ens én P 0 0 # catipén -> catipens
+
+
+
