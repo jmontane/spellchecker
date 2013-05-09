@@ -73,259 +73,259 @@ REP ü Ü
 
 # 26 -- cantar
 SFX 26 Y 84
-SFX 26 ar ar ar is:N00000
-SFX 26 ar ant ar is:G00000
-SFX 26 ar at ar is:P00SM0
-SFX 26 ar ada ar is:P00SF0
-SFX 26 ar ats ar is:P00PM0
-SFX 26 ar ades ar is:P00PF0
-SFX 26 ar o ar is:IP1S00
-SFX 26 ar e ar is:IP1S00
-SFX 26 ar 0 ar is:IP1S00
-SFX 26 ar es ar is:IP2S00
-SFX 26 ar a ar is:IP3S00
-SFX 26 ar em ar is:IP1P00
-SFX 26 ar am ar is:IP1P00
-SFX 26 ar eu ar is:IP2P00
-SFX 26 ar au ar is:IP2P00
-SFX 26 ar en ar is:IP3P00
-SFX 26 ar ava ar is:II1S00
-SFX 26 ar aves ar is:II2S00
-SFX 26 ar ava ar is:II3S00
-SFX 26 ar àvem ar is:II1P00
-SFX 26 ar àveu ar is:II2P00
-SFX 26 ar aven ar is:II3P00
-SFX 26 ar í ar is:IS1S00
-SFX 26 ar ares ar is:IS2S00
-SFX 26 ar à ar is:IS3S00
-SFX 26 ar àrem ar is:IS1P00
-SFX 26 ar àreu ar is:IS2P00
-SFX 26 ar aren ar is:IS3P00
-SFX 26 ar aré ar is:IF1S00
-SFX 26 ar aràs ar is:IF2S00
-SFX 26 ar arà ar is:IF3S00
-SFX 26 ar arem ar is:IF1P00
-SFX 26 ar areu ar is:IF2P00
-SFX 26 ar aran ar is:IF3P00
-SFX 26 ar aria ar is:IC1S00
-SFX 26 ar aries ar is:IC2S00
-SFX 26 ar aria ar is:IC3S00
-SFX 26 ar aríem ar is:IC1P00
-SFX 26 ar aríeu ar is:IC2P00
-SFX 26 ar arien ar is:IC3P00
-SFX 26 ar i ar is:SP1S00
-SFX 26 ar e ar is:SP1S00
-SFX 26 ar is ar is:SP2S00
-SFX 26 ar es ar is:SP2S00
-SFX 26 ar i ar is:SP3S00
-SFX 26 ar e ar is:SP3S00
-SFX 26 ar em ar is:SP1P0
-SFX 26 ar eu ar is:SP2P0
-SFX 26 ar in ar is:SP3P00
-SFX 26 ar en ar is:SP3P00
-SFX 26 ar ara ar is:SI1S00
-SFX 26 ar às ar is:SI1S00
-SFX 26 ar és ar is:SI1S0
-SFX 26 ar ares ar is:SI2S00
-SFX 26 ar asses ar is:SI2S00
-SFX 26 ar assis ar is:SI2S00
-SFX 26 ar esses ar is:SI2S00
-SFX 26 ar essis ar is:SI2S00
-SFX 26 ar ara ar is:SI3S00
-SFX 26 ar às ar is:SI3S00
-SFX 26 ar és ar is:SI3S00
-SFX 26 ar àrem ar is:SI1P00
-SFX 26 ar àssem ar is:SI1P00
-SFX 26 ar àssim ar is:SI1P00
-SFX 26 ar éssem ar is:SI1P00
-SFX 26 ar éssim ar is:SI1P00
-SFX 26 ar àreu ar is:SI2P00
-SFX 26 ar àsseu ar is:SI2P00
-SFX 26 ar àssiu ar is:SI2P00
-SFX 26 ar ésseu ar is:SI2P00
-SFX 26 ar éssiu ar is:SI2P00
-SFX 26 ar aren ar is:SI3P00
-SFX 26 ar assen ar is:SI3P00
-SFX 26 ar assin ar is:SI3P00
-SFX 26 ar essen ar is:SI3P00
-SFX 26 ar essin ar is:SI3P00
-SFX 26 ar a ar is:M02S00
-SFX 26 ar i ar is:M03S00
-SFX 26 ar e ar is:M03S00
-SFX 26 ar em ar is:M01P00
-SFX 26 ar eu ar is:M02P00
-SFX 26 ar au ar is:M02P00
-SFX 26 ar in ar is:M03P00
-SFX 26 ar en ar is:M03P00
+SFX 26 ar ar ar
+SFX 26 ar ant ar
+SFX 26 ar at ar
+SFX 26 ar ada ar
+SFX 26 ar ats ar
+SFX 26 ar ades ar
+SFX 26 ar o ar
+SFX 26 ar e ar
+SFX 26 ar 0 ar
+SFX 26 ar es ar
+SFX 26 ar a ar
+SFX 26 ar em ar
+SFX 26 ar am ar
+SFX 26 ar eu ar
+SFX 26 ar au ar
+SFX 26 ar en ar
+SFX 26 ar ava ar
+SFX 26 ar aves ar
+SFX 26 ar ava ar
+SFX 26 ar àvem ar
+SFX 26 ar àveu ar
+SFX 26 ar aven ar
+SFX 26 ar í ar
+SFX 26 ar ares ar
+SFX 26 ar à ar
+SFX 26 ar àrem ar
+SFX 26 ar àreu ar
+SFX 26 ar aren ar
+SFX 26 ar aré ar
+SFX 26 ar aràs ar
+SFX 26 ar arà ar
+SFX 26 ar arem ar
+SFX 26 ar areu ar
+SFX 26 ar aran ar
+SFX 26 ar aria ar
+SFX 26 ar aries ar
+SFX 26 ar aria ar
+SFX 26 ar aríem ar
+SFX 26 ar aríeu ar
+SFX 26 ar arien ar
+SFX 26 ar i ar
+SFX 26 ar e ar
+SFX 26 ar is ar
+SFX 26 ar es ar
+SFX 26 ar i ar
+SFX 26 ar e ar
+SFX 26 ar em ar
+SFX 26 ar eu ar
+SFX 26 ar in ar
+SFX 26 ar en ar
+SFX 26 ar ara ar
+SFX 26 ar às ar
+SFX 26 ar és ar
+SFX 26 ar ares ar
+SFX 26 ar asses ar
+SFX 26 ar assis ar
+SFX 26 ar esses ar
+SFX 26 ar essis ar
+SFX 26 ar ara ar
+SFX 26 ar às ar
+SFX 26 ar és ar
+SFX 26 ar àrem ar
+SFX 26 ar àssem ar
+SFX 26 ar àssim ar
+SFX 26 ar éssem ar
+SFX 26 ar éssim ar
+SFX 26 ar àreu ar
+SFX 26 ar àsseu ar
+SFX 26 ar àssiu ar
+SFX 26 ar ésseu ar
+SFX 26 ar éssiu ar
+SFX 26 ar aren ar
+SFX 26 ar assen ar
+SFX 26 ar assin ar
+SFX 26 ar essen ar
+SFX 26 ar essin ar
+SFX 26 ar a ar
+SFX 26 ar i ar
+SFX 26 ar e ar
+SFX 26 ar em ar
+SFX 26 ar eu ar
+SFX 26 ar au ar
+SFX 26 ar in ar
+SFX 26 ar en ar
 
 # 59 -- donar
 SFX 59 Y 84
-SFX 59 ar ar ar is:N00000
-SFX 59 ar ant ar is:G00000
-SFX 59 ar at ar is:P00SM0
-SFX 59 ar ada ar is:P00SF0
-SFX 59 ar ats ar is:P00PM0
-SFX 59 ar ades ar is:P00PF0
-SFX 59 ar o ar is:IP1S00
-SFX 59 ar e ar is:IP1S00
-SFX 59 ar 0 ar is:IP1S00
-SFX 59 onar ónes ar is:IP2S00#
-SFX 59 onar óna ar is:IP3S00#
-SFX 59 ar em ar is:IP1P00
-SFX 59 ar am ar is:IP1P00
-SFX 59 ar eu ar is:IP2P00
-SFX 59 ar au ar is:IP2P00
-SFX 59 ar en ar is:IP3P00
-SFX 59 ar ava ar is:II1S00
-SFX 59 ar aves ar is:II2S00
-SFX 59 ar ava ar is:II3S00
-SFX 59 ar àvem ar is:II1P00
-SFX 59 ar àveu ar is:II2P00
-SFX 59 ar aven ar is:II3P00
-SFX 59 ar í ar is:IS1S00
-SFX 59 ar ares ar is:IS2S00
-SFX 59 ar à ar is:IS3S00
-SFX 59 ar àrem ar is:IS1P00
-SFX 59 ar àreu ar is:IS2P00
-SFX 59 ar aren ar is:IS3P00
-SFX 59 ar aré ar is:IF1S00
-SFX 59 ar aràs ar is:IF2S00
-SFX 59 ar arà ar is:IF3S00
-SFX 59 ar arem ar is:IF1P00
-SFX 59 ar areu ar is:IF2P00
-SFX 59 ar aran ar is:IF3P00
-SFX 59 ar aria ar is:IC1S00
-SFX 59 ar aries ar is:IC2S00
-SFX 59 ar aria ar is:IC3S00
-SFX 59 ar aríem ar is:IC1P00
-SFX 59 ar aríeu ar is:IC2P00
-SFX 59 ar arien ar is:IC3P00
-SFX 59 ar i ar is:SP1S00
-SFX 59 ar e ar is:SP1S00
-SFX 59 ar is ar is:SP2S00
-SFX 59 ar es ar is:SP2S00
-SFX 59 ar i ar is:SP3S00
-SFX 59 ar e ar is:SP3S00
-SFX 59 ar em ar is:SP1P00
-SFX 59 ar eu ar is:SP2P00
-SFX 59 ar in ar is:SP3P00
-SFX 59 ar en ar is:SP3P00
-SFX 59 ar ara ar is:SI1S00
-SFX 59 ar às ar is:SI1S00
-SFX 59 ar és ar is:SI1S00
-SFX 59 ar ares ar is:SI2S00
-SFX 59 ar asses ar is:SI2S00
-SFX 59 ar assis ar is:SI2S00
-SFX 59 ar esses ar is:SI2S00
-SFX 59 ar essis ar is:SI2S00
-SFX 59 ar ara ar is:SI3S00
-SFX 59 ar às ar is:SI3S00
-SFX 59 ar és ar is:SI3S00
-SFX 59 ar àrem ar is:SI1P00
-SFX 59 ar àssem ar is:SI1P00
-SFX 59 ar àssim ar is:SI1P00
-SFX 59 ar éssem ar is:SI1P00
-SFX 59 ar éssim ar is:SI1P00
-SFX 59 ar àreu ar is:SI2P00
-SFX 59 ar àsseu ar is:SI2P00
-SFX 59 ar àssiu ar is:SI2P00
-SFX 59 ar ésseu ar is:SI2P00
-SFX 59 ar éssiu ar is:SI2P00
-SFX 59 ar aren ar is:SI3P00
-SFX 59 ar assen ar is:SI3P00
-SFX 59 ar assin ar is:SI3P00
-SFX 59 ar essen ar is:SI3P00
-SFX 59 ar essin ar is:SI3P00
-SFX 59 onar óna ar is:M02S00
-SFX 59 ar i ar is:M03S00
-SFX 59 ar e ar is:M03S00
-SFX 59 ar em ar is:M01P00
-SFX 59 ar eu ar is:M02P00
-SFX 59 ar au ar is:M02P00
-SFX 59 ar in ar is:M03P00
-SFX 59 ar en ar is:M03P00
+SFX 59 ar ar ar
+SFX 59 ar ant ar
+SFX 59 ar at ar
+SFX 59 ar ada ar
+SFX 59 ar ats ar
+SFX 59 ar ades ar
+SFX 59 ar o ar
+SFX 59 ar e ar
+SFX 59 ar 0 ar
+SFX 59 onar ónes ar
+SFX 59 onar óna ar
+SFX 59 ar em ar
+SFX 59 ar am ar
+SFX 59 ar eu ar
+SFX 59 ar au ar
+SFX 59 ar en ar
+SFX 59 ar ava ar
+SFX 59 ar aves ar
+SFX 59 ar ava ar
+SFX 59 ar àvem ar
+SFX 59 ar àveu ar
+SFX 59 ar aven ar
+SFX 59 ar í ar
+SFX 59 ar ares ar
+SFX 59 ar à ar
+SFX 59 ar àrem ar
+SFX 59 ar àreu ar
+SFX 59 ar aren ar
+SFX 59 ar aré ar
+SFX 59 ar aràs ar
+SFX 59 ar arà ar
+SFX 59 ar arem ar
+SFX 59 ar areu ar
+SFX 59 ar aran ar
+SFX 59 ar aria ar
+SFX 59 ar aries ar
+SFX 59 ar aria ar
+SFX 59 ar aríem ar
+SFX 59 ar aríeu ar
+SFX 59 ar arien ar
+SFX 59 ar i ar
+SFX 59 ar e ar
+SFX 59 ar is ar
+SFX 59 ar es ar
+SFX 59 ar i ar
+SFX 59 ar e ar
+SFX 59 ar em ar
+SFX 59 ar eu ar
+SFX 59 ar in ar
+SFX 59 ar en ar
+SFX 59 ar ara ar
+SFX 59 ar às ar
+SFX 59 ar és ar
+SFX 59 ar ares ar
+SFX 59 ar asses ar
+SFX 59 ar assis ar
+SFX 59 ar esses ar
+SFX 59 ar essis ar
+SFX 59 ar ara ar
+SFX 59 ar às ar
+SFX 59 ar és ar
+SFX 59 ar àrem ar
+SFX 59 ar àssem ar
+SFX 59 ar àssim ar
+SFX 59 ar éssem ar
+SFX 59 ar éssim ar
+SFX 59 ar àreu ar
+SFX 59 ar àsseu ar
+SFX 59 ar àssiu ar
+SFX 59 ar ésseu ar
+SFX 59 ar éssiu ar
+SFX 59 ar aren ar
+SFX 59 ar assen ar
+SFX 59 ar assin ar
+SFX 59 ar essen ar
+SFX 59 ar essin ar
+SFX 59 onar óna ar
+SFX 59 ar i ar
+SFX 59 ar e ar
+SFX 59 ar em ar
+SFX 59 ar eu ar
+SFX 59 ar au ar
+SFX 59 ar in ar
+SFX 59 ar en ar
 
 # 201 -- a
 SFX 201 Y 2
-SFX 201 0 0 . is:S0
-SFX 201 0 s . is:P0
+SFX 201 0 0 .
+SFX 201 0 s .
 
 # 202 -- abraç
 SFX 202 Y 2
-SFX 202 0 0 . is:S0
-SFX 202 0 os [çxs] is:P0
+SFX 202 0 0 .
+SFX 202 0 os [çxs]
 
 # 203 -- casa
 SFX 203 Y 2
-SFX 203 0 0 . is:S0
-SFX 203 a es a is:P0
+SFX 203 0 0 .
+SFX 203 a es a
 
 # 204 -- coca
 SFX 204 Y 2
-SFX 204 0 0 ca is:S0
-SFX 204 ca ques ca is:P0
+SFX 204 0 0 ca
+SFX 204 ca ques ca
 
 # 205 -- paga
 SFX 205 Y 2
-SFX 205 0 0 ga is:S0
-SFX 205 ga gues ga is:P0
+SFX 205 0 0 ga
+SFX 205 ga gues ga
 
 # 206 -- aigua
 SFX 206 Y 2
-SFX 206 0 0 gua is:S0
-SFX 206 ua ües gua is:P0
+SFX 206 0 0 gua
+SFX 206 ua ües gua
 
 # 207 -- platja
 SFX 207 Y 2
-SFX 207 0 0 ja is:S0
-SFX 207 ja ges ja is:P0
+SFX 207 0 0 ja
+SFX 207 ja ges ja
 
 # 208 -- caça
 SFX 208 Y 2
-SFX 208 0 0 ça is:S0
-SFX 208 ça ces ça is:P0
+SFX 208 0 0 ça
+SFX 208 ça ces ça
 
 # 209 -- be
 SFX 209 Y 2
-SFX 209 0 0 [aeiou] is:S0
-SFX 209 0 ns [aeiou] is:P0
+SFX 209 0 0 [aeiou]
+SFX 209 0 ns [aeiou]
 
 # 210 -- aglà
 SFX 210 Y 4
-SFX 210 0 0 [aeo] is:S0
-SFX 210 à ans à is:P0
-SFX 210 è ens è is:P0
-SFX 210 ò ons ò is:P0
+SFX 210 0 0 [aeo]
+SFX 210 à ans à
+SFX 210 è ens è
+SFX 210 ò ons ò
 
 # 211 -- acció
 SFX 211 Y 5
-SFX 211 0 0 [eiou] is:S0
-SFX 211 é ens é is:P0
-SFX 211 í ins í is:P0
-SFX 211 ó ons ó is:P0
-SFX 211 ú uns ú is:P0
+SFX 211 0 0 [eiou]
+SFX 211 é ens é
+SFX 211 í ins í
+SFX 211 ó ons ó
+SFX 211 ú uns ú
 
 # 212 -- babuí
 SFX 212 Y 2
-SFX 212 0 0 í is:S0
-SFX 212 í ïns í is:P0
+SFX 212 0 0 í
+SFX 212 í ïns í
 
 # 213 -- aerotrèn
 SFX 213 Y 2
-SFX 213 0 0 èn is:S0
-SFX 213 èn ens èn is:P0
+SFX 213 0 0 èn
+SFX 213 èn ens èn
 
 # 214 -- espín
 SFX 214 Y 3
-SFX 214 0 0 [íé]n is:S0
-SFX 214 ín ins ín is:P0
-SFX 214 én ens én is:P0
+SFX 214 0 0 [íé]n
+SFX 214 ín ins ín
+SFX 214 én ens én
 
 # 999 -- pronoms personals prefixats
 PFX 999 Y 5
-PFX 999 0 n' [aàeèéiíoòóhuú] is:
-PFX 999 0 m' [aàeèéiíoòóhuú] is:
-PFX 999 0 t' [aàeèéiíoòóhuú] is:
-PFX 999 0 s' [aàeèéiíoòóhuú] is:
-PFX 999 0 l' [aàeèéiíoòóhuú] is:
+PFX 999 0 n' [aàeèéiíoòóhuú]
+PFX 999 0 m' [aàeèéiíoòóhuú]
+PFX 999 0 t' [aàeèéiíoòóhuú]
+PFX 999 0 s' [aàeèéiíoòóhuú]
+PFX 999 0 l' [aàeèéiíoòóhuú]
 

@@ -1,9 +1,12 @@
 #!/usr/bin/perl
 
+BEGIN { push @INC, './lib' }
+
 use strict;
 use warnings;
 use utf8;
 
+use ParsingTools qw(:DEFAULT);
 binmode(STDOUT, ":utf8");
 
 my @v_models= qw(26 59);
@@ -11,6 +14,9 @@ my @n_models=qw(201 202 203 204 205 206 207 208 209 210 211 212 213 214);
 my @other_models= qw(999);
 
 my @models= (@v_models, @n_models, @other_models);
+
+
+my $models_dir = "../models/";
 
 # Print header
 print_header();
@@ -21,13 +27,31 @@ print_encoding();
 # Print block
 print_block();
 
-# Print models
-foreach (@models)
+# Print verbal models
+foreach (@v_models)
 {
-	system("/usr/bin/perl ./generate-model.pl $_");
+	my @rules= ParsingTools::createrule($_, $models_dir, "V");
+	print @rules;
 	print "\n";
 }
 
+# Print noun/adjective models
+foreach (@n_models)
+{
+	my @rules= ParsingTools::createrule($_, $models_dir, "N");
+	print @rules;
+	print "\n";
+}
+
+# Print other models
+foreach (@other_models)
+{
+	my @rules= ParsingTools::createrule($_, $models_dir, "O");
+	print @rules;
+	print "\n";
+}
+
+# end
 
 sub print_header
 {
