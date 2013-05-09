@@ -8,7 +8,7 @@ echo ca.aff
 echo 
 
 echo Unmunching dictionary
-../hunspell/src/tools/unmunch ../output/ca.dic ../output/ca.aff | sort | uniq > ../output/wordlist.output
+./unmunch.sh ../output/ca.dic ../output/ca.aff | sort | uniq > ../output/wordlist.output
 echo
 
 

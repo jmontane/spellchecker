@@ -20,6 +20,11 @@ print "$count\n";
 
 foreach (@lines) {
 	my @entry = split(/\|/,$_);
+	if ($entry[1] =~ "VP")
+	{
+	 $entry[0] =~ s/(-se|'s)$//;
+	 
+	}
 	print "$entry[0]\/$entry[2]\tpo:$entry[1]\n";
 }
 

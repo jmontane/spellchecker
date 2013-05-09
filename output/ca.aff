@@ -11,6 +11,9 @@
 
 SET UTF-8
 
+
+FLAG num
+
 WORDCHARS ·-'
 
 TRY easirtocnlumdpgvfbqjwxyzhàèéíïòóúüç·-'
@@ -241,4 +244,88 @@ SFX 59 ar eu ar is:M02P00
 SFX 59 ar au ar is:M02P00
 SFX 59 ar in ar is:M03P00
 SFX 59 ar en ar is:M03P00
+
+# 201 -- a
+SFX 201 Y 2
+SFX 201 0 0 . is:S0
+SFX 201 0 s . is:P0
+
+# 202 -- abraç
+SFX 202 Y 2
+SFX 202 0 0 . is:S0
+SFX 202 0 os [çxs] is:P0
+
+# 203 -- casa
+SFX 203 Y 2
+SFX 203 0 0 . is:S0
+SFX 203 a es a is:P0
+
+# 204 -- coca
+SFX 204 Y 2
+SFX 204 0 0 ca is:S0
+SFX 204 ca ques ca is:P0
+
+# 205 -- paga
+SFX 205 Y 2
+SFX 205 0 0 ga is:S0
+SFX 205 ga gues ga is:P0
+
+# 206 -- aigua
+SFX 206 Y 2
+SFX 206 0 0 gua is:S0
+SFX 206 ua ües gua is:P0
+
+# 207 -- platja
+SFX 207 Y 2
+SFX 207 0 0 ja is:S0
+SFX 207 ja ges ja is:P0
+
+# 208 -- caça
+SFX 208 Y 2
+SFX 208 0 0 ça is:S0
+SFX 208 ça ces ça is:P0
+
+# 209 -- be
+SFX 209 Y 2
+SFX 209 0 0 [aeiou] is:S0
+SFX 209 0 ns [aeiou] is:P0
+
+# 210 -- aglà
+SFX 210 Y 4
+SFX 210 0 0 [aeo] is:S0
+SFX 210 à ans à is:P0
+SFX 210 è ens è is:P0
+SFX 210 ò ons ò is:P0
+
+# 211 -- acció
+SFX 211 Y 5
+SFX 211 0 0 [eiou] is:S0
+SFX 211 é ens é is:P0
+SFX 211 í ins í is:P0
+SFX 211 ó ons ó is:P0
+SFX 211 ú uns ú is:P0
+
+# 212 -- babuí
+SFX 212 Y 2
+SFX 212 0 0 í is:S0
+SFX 212 í ïns í is:P0
+
+# 213 -- aerotrèn
+SFX 213 Y 2
+SFX 213 0 0 èn is:S0
+SFX 213 èn ens èn is:P0
+
+# 214 -- espín
+SFX 214 Y 3
+SFX 214 0 0 [íé]n is:S0
+SFX 214 ín ins ín is:P0
+SFX 214 én ens én is:P0
+
+# 999 -- pronoms personals prefixats
+PFX 999 Y 5
+PFX 999 0 n' [aàeèéiíoòóhuú] is:
+PFX 999 0 m' [aàeèéiíoòóhuú] is:
+PFX 999 0 t' [aàeèéiíoòóhuú] is:
+PFX 999 0 s' [aàeèéiíoòóhuú] is:
+PFX 999 0 l' [aàeèéiíoòóhuú] is:
 
