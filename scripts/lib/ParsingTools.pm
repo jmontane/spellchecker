@@ -92,7 +92,7 @@ foreach (@lines) {
 	{
 		my @rule = split(" ",$_);
 		my $rule="";
-		if ($mtype =~ /"[VN]"/)
+		if ($mtype =~ /^[VN]$/)
 		{
 			$rule="$type $code $rule[0] $rule[1] $rule[2] is:$rule[3]$rule[5]\n"
 		} elsif ($mtype =~ /"O"/) {

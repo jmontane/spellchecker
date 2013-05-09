@@ -13077,7 +13077,6 @@ afusions
 afust
 afzèlia
 afzèlies
-aga
 agà
 agabell
 agabella
@@ -13216,6 +13215,7 @@ agafin
 agafis
 agafo
 agafós
+aga_khan
 agalàctia
 agalàcties
 agalàxia
@@ -91152,7 +91152,7 @@ deliri
 delirí
 delirin
 deliris
-delírium
+delírium_trèmens
 deliro
 delirós
 delit
@@ -266634,7 +266634,6 @@ mortificant
 mortificants
 mortificar
 mortificat
-mortis
 morts
 mortuori
 morú
@@ -300539,6 +300538,8 @@ quídams
 quiditat
 quiditatiu
 quiditats
+quid_pro_quo
+quids
 quiescència
 quiescències
 quiescent
@@ -301057,7 +301058,6 @@ quixotescament
 quixotisme
 quixotismes
 quixots
-quo
 quocient
 quocients
 quòdlibet
@@ -302571,7 +302571,7 @@ raquitis
 raquitisme
 raquitismes
 rar
-rara
+rara_avis
 rarament
 rarefacció
 rarefaccions
@@ -321686,6 +321686,7 @@ rigorisme
 rigorismes
 rigorista
 rigoristes
+rigor_mortis
 rigorós
 rigorosament
 rigors
@@ -351295,7 +351296,6 @@ tremen
 tremend
 tremendisme
 tremendismes
-trèmens
 trement
 trementina
 trementines

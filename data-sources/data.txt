@@ -1643,7 +1643,7 @@ afusellar|VM|26|DIEC
 afusió|NCF|211|DIEC
 afust|NCM|230|DIEC
 afzèlia|NCF|203|DIEC
-aga|NCM|500|DIEC
+aga_khan|NCM|500|DIEC
 agà|NCM|201|DIEC
 agabell|NCM|201|DIEC
 agabellador|adj.~mif.|301|DIEC
@@ -7003,7 +7003,7 @@ avió|NCM|211|DIEC
 avioneta|NCF|203|DIEC
 avior|NCF|201|DIEC
 aviram|mof.|201|DIEC
-avis|NCF|500|DIEC
+rara_avis|NCF|500|DIEC
 avís|NCM|216|DIEC
 avisadament|RG|500|DIEC
 avisador|adj.mif.|301|DIEC
@@ -18392,7 +18392,7 @@ delir|VM|112|DIEC
 delirant|adj.|201|DIEC
 delirar|VM|26|DIEC
 deliri|NCM|201|DIEC
-delírium|NCM|500|DIEC
+delírium_trèmens|NCM|500|DIEC
 delirós|adj.|352|DIEC
 delit|NCM|201|DIEC
 delitable|adj.|201|DIEC
@@ -44567,7 +44567,7 @@ mortificador|adj.|301|DIEC
 mortificant|adj.|201|DIEC
 mortificar|VM|119|DIEC
 mortificat|adj.|310|DIEC
-mortis|NCM|500|DIEC
+rigor_mortis|NCM|500|DIEC
 mortuori|adj.|361|DIEC
 morú|adj.~f.|342|DIEC
 mòrula|NCF|203|DIEC
@@ -52571,7 +52571,6 @@ privilegiadament|RG|500|DIEC
 privilegiar|VM|48|DIEC
 privilegiat|adj.~m.|310|DIEC
 privilegiatiu|adj.|323|DIEC
-pro|NCM|500|DIEC
 pro|prep.|500|DIEC
 pro|NCM|201|DIEC
 proa|NCF|203|DIEC
@@ -53841,7 +53840,7 @@ quica|NCF|204|DIEC
 quico|adj.|308|DIEC
 quicou|NCM|201|DIEC
 quid|NCM|201|DIEC
-quid|NCM|500|DIEC
+quid_pro_quo|NCM|500|DIEC
 quídam|NCM|201|DIEC
 quiditat|NCF|201|DIEC
 quiditatiu|adj.|323|DIEC
@@ -54025,7 +54024,6 @@ quixotada|NCF|203|DIEC
 quixotesc|adj.|380|DIEC
 quixotescament|RG|500|DIEC
 quixotisme|NCM|201|DIEC
-quo|NCM|500|DIEC
 quocient|NCM|201|DIEC
 quòdlibet|NCM|201|DIEC
 quodlibetal|adj.|201|DIEC
@@ -54429,7 +54427,6 @@ raquíticament|RG|500|DIEC
 raquitis|NCF|511|DIEC
 raquitisme|NCM|201|DIEC
 rar|adj.|301|DIEC
-rara|NCF|500|DIEC
 rarament|RG|500|DIEC
 rarefacció|NCF|211|DIEC
 rarefactible|adj.|201|DIEC
@@ -63897,7 +63894,6 @@ tremebund|adj.|301|DIEC
 tremel·lal|fpl.~f.|201|DIEC
 tremend|adj.|301|DIEC
 tremendisme|NCM|201|DIEC
-trèmens|NCM|500|DIEC
 trement|adj.|201|DIEC
 trementina|NCF|203|DIEC
 trémer|VM|70|DIEC
