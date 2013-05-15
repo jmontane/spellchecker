@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo Rebuilding verbals models...
+./build-verbal-models.pl
+
 echo Building Hunspell files
 echo ca.dic
 ./build-dic.pl > ../output/ca.dic
