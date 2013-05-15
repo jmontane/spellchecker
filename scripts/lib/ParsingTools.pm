@@ -94,7 +94,7 @@ foreach (@lines) {
 		my $rule="";
 		if ($mtype =~ /^[VN]$/)
 		{
-			$rule="$type $code $rule[0] $rule[1] $rule[2] is:$rule[3]$rule[5]\n"
+			$rule="$type $code $rule[0] $rule[1] $rule[2] is:$rule[3]$rule[4]\n"
 		} elsif ($mtype =~ /"O"/) {
 			$rule="$type $code $rule[0] $rule[1] $rule[2] is:$rule[3]\n"
 		} else {

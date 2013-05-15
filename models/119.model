@@ -1,0 +1,75 @@
+# poder
+# 119
+# SFX
+# Y
+
+r r er N0000 0 0
+r nt er G0000 0 0
+der gut er P00SM 0 0
+der guda er P00SF 0 0
+der guts er P00PM 0 0
+der gudes er P00PF 0 0
+oder uc er IP1S0 0 0
+der ts er IP2S0 0 0
+der t er IP3S0 0 0
+r m er IP1P0 0 0
+r u er IP2P0 0 0
+r n er IP3P0 0 0
+er ia er II1S0 0 0
+er ies er II2S0 0 0
+er ia er II3S0 0 0
+er íem er II1P0 0 0
+er íeu er II2P0 0 0
+er ien er II3P0 0 0
+der guí er IS1S0 0 0
+der gueres er IS2S0 0 0
+der gué er IS3S0 0 0
+der guérem er IS1P0 0 0
+der guéreu er IS2P0 0 0
+der gueren er IS3P0 0 0
+er ré er IF1S0 0 0
+er ràs er IF2S0 0 0
+er rà er IF3S0 0 0
+er rem er IF1P0 0 0
+er reu er IF2P0 0 0
+er ran er IF3P0 0 0
+er ria er IC1S0 0 0
+er ries er IC2S0 0 0
+er ria er IC3S0 0 0
+er ríem er IC1P0 0 0
+er ríeu er IC2P0 0 0
+er rien er IC3P0 0 0
+oder uga er SP1S0 V 0
+oder ugui er SP1S0 Y 0
+oder ugues er SP2S0 V 0
+oder uguis er SP2S0 Y 0
+oder uga er SP3S0 V 0
+oder ugui er SP3S0 Y 0
+oder uguem er SP1P0 0 0
+oder ugueu er SP2P0 0 0
+oder uguen er SP3P0 V 0
+oder uguin er SP3P0 Y 0
+der gués er SI1S0 1 0
+der guera er SI1S0 3 0
+der guessis er SI2S0 2 0
+der gueres er SI2S0 3 0
+der guesses er SI2S0 5 0
+der gués er SI3S0 1 0
+der guera er SI3S0 3 0
+der guéssim er SI1P0 2 0
+der guérem er SI1P0 3 0
+der guéssem er SI1P0 5 0
+der guéssiu er SI2P0 2 0
+der guéreu er SI2P0 3 0
+der guésseu er SI2P0 5 0
+der guessin er SI3P0 2 0
+der gueren er SI3P0 3 0
+der guessen er SI3P0 5 0
+oder ugues er M02S0 0 0
+oder uga er M03S0 V 0
+oder ugui er M03S0 Y 0
+oder uguem er M01P0 0 0
+oder ugueu er M02P0 0 0
+oder uguen er M03P0 V 0
+oder uguin er M03P0 Y 0
+

@@ -1,9 +1,0 @@
-# be
-# 209
-# SFX
-# Y
-
-# plural afegint -ns, sense canvi d'accent
-0 0 [aeiou] S 0 0 # be -> be
-0 ns [aeiou] P 0 0 # be -> bens
-

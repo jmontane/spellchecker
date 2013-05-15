@@ -1,108 +1,70 @@
-# cantar
+# aparer
 # 26
 # SFX
 # Y
 
-# model de la I conjugació regular
+r r er N0000 0 0
+er ut er P00SM 0 0
+er uda er P00SF 0 0
+er uts er P00PM 0 0
+er udes er P00PF 0 0
+er o er IP1S0 C 0
+er 0 er IP1S0 B 0
+er s er IP2S0 0 0
+er 0 er IP3S0 0 0
+r m er IP1P0 0 0
+r u er IP2P0 0 0
+r n er IP3P0 0 0
+er íem er II1P0 0 0
+er íeu er II2P0 0 0
+er í er IS1S0 0 0
+r res er IS2S0 0 0
+er é er IS3S0 0 0
+er érem er IS1P0 0 0
+er éreu er IS2P0 0 0
+r ren er IS3P0 0 0
+r ré er IF1S0 0 0
+r ràs er IF2S0 0 0
+r rà er IF3S0 0 0
+r rem er IF1P0 0 0
+r reu er IF2P0 0 0
+r ran er IF3P0 0 0
+r ria er IC1S0 0 0
+r ries er IC2S0 0 0
+r ria er IC3S0 0 0
+r ríem er IC1P0 0 0
+r ríeu er IC2P0 0 0
+r rien er IC3P0 0 0
+er a er SP1S0 V 0
+er i er SP1S0 Y 0
+r s er SP2S0 V 0
+er is er SP2S0 Y 0
+er a er SP3S0 V 0
+er i er SP3S0 Y 0
+r m er SP1P0 0 0
+r u er SP2P0 0 0
+r n er SP3P0 V 0
+er in er SP3P0 Y 0
+er és er SI1S0 1 0
+r ra er SI1S0 3 0
+r ssis er SI2S0 2 0
+r res er SI2S0 3 0
+r sses er SI2S0 5 0
+er és er SI3S0 1 0
+r ra er SI3S0 3 0
+er éssim er SI1P0 2 0
+er érem er SI1P0 3 0
+er éssem er SI1P0 5 0
+er éssiu er SI2P0 2 0
+er éreu er SI2P0 3 0
+er ésseu er SI2P0 5 0
+r ssin er SI3P0 2 0
+r ren er SI3P0 3 0
+r ssen er SI3P0 5 0
+er a er M03S0 V 0
+er i er M03S0 Y 0
+r m er M01P0 0 0
+r u er M02P0 0 0
+r n er M03P0 V 0
+er in er M03P0 Y 0
 
-# formes no personals
-ar ar ar N0000 0 0 # cantar
-ar ant ar G0000 0 0 # cantant
-ar at ar P00SM 0 0 # cantat
-ar ada ar P00SF 0 0 # cantada
-ar ats ar P00PM 0 0 # cantats
-ar ades ar P00PF 0 0 # cantades
-
-# present d'indicatiu
-ar o ar IP1S0 C 0 # canto
-ar e ar IP1S0 V 0 # cante
-ar 0 ar IP1S0 B 0 # cant
-ar es ar IP2S0 0 0 # cantes
-ar a ar IP3S0 0 0 # canta
-ar em ar IP1P0 0 0 # cantem
-ar am ar IP1P0 B 0 # cantam
-ar eu ar IP2P0 0 0 # canteu
-ar au ar IP2P0 B 0 # cantau
-ar en ar IP3P0 0 0 # canten
-
-# imperfet d'indicatiu
-ar ava ar II1S0 0 0 # cantava
-ar aves ar II2S0 0 0 # cantaves
-ar ava ar II3S0 0 0 # cantaves
-ar àvem ar II1P0 0 0 # cantàvem
-ar àveu ar II2P0 0 0 # cantàveu
-ar aven ar II3P0 0 0 # cantaven
-
-# passat d'indicatiu
-ar í ar IS1S0 0 0 # cantí
-ar ares ar IS2S0 0 0 # cantares
-ar à ar IS3S0 0 0 # cantà
-ar àrem ar IS1P0 0 0 # cantàrem
-ar àreu ar IS2P0 0 0 # cantàreu
-ar aren ar IS3P0 0 0 # cantaren
-
-# futur
-ar aré ar IF1S0 0 0 # cantaré
-ar aràs ar IF2S0 0 0 # cantaràs
-ar arà ar IF3S0 0 0 # cantarà
-ar arem ar IF1P0 0 0 # cantarem
-ar areu ar IF2P0 0 0 # cantareu
-ar aran ar IF3P0 0 0 # cantaran
-
-# condicional
-ar aria ar IC1S0 0 0 # cantaria
-ar aries ar IC2S0 0 0 # cantaries
-ar aria ar IC3S0 0 0 # cantaria
-ar aríem ar IC1P0 0 0 # cantaríem
-ar aríeu ar IC2P0 0 0 # cantaríeu
-ar arien ar IC3P0 0 0 # cantarien
-
-# present de subjuntiu
-ar i ar SP1S0 Y 0 # canti
-ar e ar SP1S0 V 0 # cante
-ar is ar SP2S0 Y 0 # cantis
-ar es ar SP2S0 V 0 # cantes
-ar i ar SP3S0 Y 0 # canti
-ar e ar SP3S0 V 0 # cante
-ar em ar SP1P 0 0 0 # cantem
-ar eu ar SP2P 0 0 0 # canteu
-ar in ar SP3P0 Y 0 # cantin
-ar en ar SP3P0 V 0 # canten
-
-# imperfect de subjuntiu
-ar ara ar SI1S0 V 0 # cantara
-ar às ar SI1S0 Z 0 # cantàs
-ar és ar SI1S 0 0 0 # cantés
-ar ares ar SI2S0 V 0 # cantares
-ar asses ar SI2S0 V 0 # cantasses
-ar assis ar SI2S0 B 0 # cantassis
-ar esses ar SI2S0 V 0 # cantesses
-ar essis ar SI2S0 Y 0 # cantessis
-ar ara ar SI3S0 V 0 # cantara
-ar às ar SI3S0 Z 0 # cantàs
-ar és ar SI3S0 0 0 # cantés
-ar àrem ar SI1P0 V 0 # cantàrem
-ar àssem ar SI1P0 V 0 # cantàssem
-ar àssim ar SI1P0 B 0 # cantàssim
-ar éssem ar SI1P0 V 0 # cantéssem
-ar éssim ar SI1P0 Y 0 # cantéssim
-ar àreu ar SI2P0 V 0 # cantàreu
-ar àsseu ar SI2P0 V 0 # cantàsseu
-ar àssiu ar SI2P0 B 0 # cantàssiu
-ar ésseu ar SI2P0 V 0 # cantésseu
-ar éssiu ar SI2P0 Y 0 # cantéssiu
-ar aren ar SI3P0 V 0 # cantaren
-ar assen ar SI3P0 V 0 # cantassen
-ar assin ar SI3P0 B 0 # cantassin
-ar essen ar SI3P0 V 0 # cantessen
-ar essin ar SI3P0 Y 0 # cantessin
-
-# imperatiu
-ar a ar M02S0 0 0 # canta
-ar i ar M03S0 Y 0 # canti
-ar e ar M03S0 V 0 # cante
-ar em ar M01P0 0 0 # cantem
-ar eu ar M02P0 X 0 # canteu
-ar au ar M02P0 B 0 # cantau
-ar in ar M03P0 Y 0 # cantin
-ar en ar M03P0 V 0 # canten

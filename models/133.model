@@ -1,0 +1,75 @@
+# saber
+# 133
+# SFX
+# Y
+
+r r er N0000 0 0
+r nt er G0000 0 0
+er ut er P00SM 0 0
+er uda er P00SF 0 0
+er uts er P00PM 0 0
+er udes er P00PF 0 0
+aber é er IP1S0 0 0
+ber ps er IP2S0 0 0
+ber p er IP3S0 0 0
+r m er IP1P0 0 0
+r u er IP2P0 0 0
+r n er IP3P0 0 0
+er ia er II1S0 0 0
+er ies er II2S0 0 0
+er ia er II3S0 0 0
+er íem er II1P0 0 0
+er íeu er II2P0 0 0
+er ien er II3P0 0 0
+er í er IS1S0 0 0
+r res er IS2S0 0 0
+er é er IS3S0 0 0
+er érem er IS1P0 0 0
+er éreu er IS2P0 0 0
+r ren er IS3P0 0 0
+er ré er IF1S0 0 0
+er ràs er IF2S0 0 0
+er rà er IF3S0 0 0
+er rem er IF1P0 0 0
+er reu er IF2P0 0 0
+er ran er IF3P0 0 0
+er ria er IC1S0 0 0
+er ries er IC2S0 0 0
+er ria er IC3S0 0 0
+er ríem er IC1P0 0 0
+er ríeu er IC2P0 0 0
+er rien er IC3P0 0 0
+aber àpiga er SP1S0 0 0
+aber àpia er SP1S0 V 0
+aber àpigues er SP2S0 0 0
+aber àpies er SP2S0 V 0
+aber àpiga er SP3S0 0 0
+aber àpia er SP3S0 V 0
+ber piguem er SP1P0 0 0
+ber pigueu er SP2P0 0 0
+aber àpiguen er SP3P0 0 0
+aber àpien er SP3P0 V 0
+er és er SI1S0 1 0
+r ra er SI1S0 3 0
+r ssis er SI2S0 2 0
+r res er SI2S0 3 0
+r sses er SI2S0 5 0
+er és er SI3S0 1 0
+r ra er SI3S0 3 0
+er éssim er SI1P0 2 0
+er érem er SI1P0 3 0
+er éssem er SI1P0 5 0
+er éssiu er SI2P0 2 0
+er éreu er SI2P0 3 0
+er ésseu er SI2P0 5 0
+r ssin er SI3P0 2 0
+r ren er SI3P0 3 0
+r ssen er SI3P0 5 0
+aber àpigues er M02S0 0 0
+aber àpiga er M03S0 0 0
+aber àpia er M03S0 V 0
+ber piguem er M01P0 0 0
+ber pigueu er M02P0 0 0
+aber àpiguen er M03P0 0 0
+aber àpien er M03P0 V 0
+

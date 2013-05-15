@@ -9,7 +9,7 @@ use utf8;
 use ParsingTools qw(:DEFAULT);
 binmode(STDOUT, ":utf8");
 
-my @v_models= qw(26 59);
+my @v_models= (1..155);
 my @n_models=qw(201 202 203 204 205 206 207 208 209 210 211 212 213 214);
 my @other_models= qw(999);
 

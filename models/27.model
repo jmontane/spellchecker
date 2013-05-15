@@ -1,0 +1,76 @@
+# apercebre
+# 27
+# SFX
+# Y
+
+e e re N0000 0 0
+re ent re G0000 0 0
+re ut re P00SM 0 0
+re uda re P00SF 0 0
+re uts re P00PM 0 0
+re udes re P00PF 0 0
+re o re IP1S0 C 0
+bre p re IP1S0 Z 0
+bre ps re IP2S0 0 0
+bre p re IP3S0 0 0
+re em re IP1P0 0 0
+re eu re IP2P0 0 0
+re en re IP3P0 0 0
+re ia re II1S0 0 0
+re ies re II2S0 0 0
+re ia re II3S0 0 0
+re íem re II1P0 0 0
+re íeu re II2P0 0 0
+re ien re II3P0 0 0
+re í re IS1S0 0 0
+re eres re IS2S0 0 0
+re é re IS3S0 0 0
+re érem re IS1P0 0 0
+re éreu re IS2P0 0 0
+re eren re IS3P0 0 0
+e é re IF1S0 0 0
+e às re IF2S0 0 0
+e à re IF3S0 0 0
+e em re IF1P0 0 0
+e eu re IF2P0 0 0
+e an re IF3P0 0 0
+e ia re IC1S0 0 0
+e ies re IC2S0 0 0
+e ia re IC3S0 0 0
+e íem re IC1P0 0 0
+e íeu re IC2P0 0 0
+e ien re IC3P0 0 0
+re a re SP1S0 V 0
+re i re SP1S0 Y 0
+re es re SP2S0 V 0
+re is re SP2S0 Y 0
+re a re SP3S0 V 0
+re i re SP3S0 Y 0
+re em re SP1P0 0 0
+re eu re SP2P0 0 0
+re en re SP3P0 V 0
+re in re SP3P0 Y 0
+re és re SI1S0 1 0
+re era re SI1S0 3 0
+re essis re SI2S0 2 0
+re eres re SI2S0 3 0
+re esses re SI2S0 5 0
+re és re SI3S0 1 0
+re era re SI3S0 3 0
+re éssim re SI1P0 2 0
+re érem re SI1P0 3 0
+re éssem re SI1P0 5 0
+re éssiu re SI2P0 2 0
+re éreu re SI2P0 3 0
+re ésseu re SI2P0 5 0
+re essin re SI3P0 2 0
+re eren re SI3P0 3 0
+re essen re SI3P0 5 0
+bre p re M02S0 0 0
+re a re M03S0 V 0
+re i re M03S0 Y 0
+re em re M01P0 0 0
+re eu re M02P0 0 0
+re en re M03P0 V 0
+re in re M03P0 Y 0
+

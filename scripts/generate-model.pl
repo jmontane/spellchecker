@@ -54,7 +54,7 @@ foreach (@lines) {
 	if ($_ =~ /^[^#]/)
 	{
 		my @rule = split(" ",$_);
-		print "$type $code $rule[0] $rule[1] $rule[2] is:$rule[3]$rule[5]\n";
+		print "$type $code $rule[0] $rule[1] $rule[2] is:$rule[3]$rule[4]\n";
 	}
 	  
 }
