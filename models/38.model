@@ -11,7 +11,7 @@ re uda re P00SF 0 0
 re uts re P00PM 0 0
 re udes re P00PF 0 0
 re o re IP1S0 C 0
-bre p re IP1S0 B 0
+bre p re IP1S0 Z 0
 bre ps re IP2S0 0 0
 bre p re IP3S0 0 0
 re em re IP1P0 0 0
