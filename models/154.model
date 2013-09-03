@@ -49,6 +49,12 @@ oler ulguem er SP1P0 0 0
 oler ulgueu er SP2P0 0 0
 oler ulguen er SP3P0 V 0
 oler ulguin er SP3P0 Y 0
+oler ullga er SP1S0 V 0 # formes vullga, vullgues...
+oler ullgues er SP2S0 V 0
+oler ullga er SP3S0 V 0
+oler ullguem er SP1P0 V 0
+oler ullgueu er SP2P0 V 0
+oler ullguen er SP3P0 V 0
 er gués er SI1S0 1 0
 er guera er SI1S0 3 0
 er guessis er SI2S0 2 0
@@ -72,4 +78,8 @@ oler ulguem er M01P0 0 0
 oler ulgueu er M02P0 0 0
 oler ulguen er M03P0 V 0
 oler ulguin er M03P0 Y 0
-
+oler ullgues er M02S0 V 0 # formes vullga, vullgues...
+oler ullga er M03S0 V 0
+oler ullguem er M01P0 V 0
+oler ullgueu er M02P0 V 0
+oler ullguen er M03P0 V 0
